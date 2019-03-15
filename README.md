@@ -1,5 +1,7 @@
 ![WS2812FX library](https://raw.githubusercontent.com/kitesurfer1404/WS2812FX/master/WS2812FX_logo.png)
 
+This is my fork of the WS2812fx as of 10 Mar 19. I have added in support for RGBW sx6812 and edited a few of the animations. All praise should be bestowed to kitesurfer1404 and  https://github.com/FabLab-Luenen/McLighting
+
 WS2812FX - More Blinken for your LEDs!
 ======================================
 
@@ -122,7 +124,7 @@ Effects
 48. **Fire Flicker** - Fire flickering effect. Like in harsh wind.
 49. **Fire Flicker (soft)** - Fire flickering effect. Runs slower/softer.
 50. **Fire Flicker (intense)** - Fire flickering effect. More range of color.
-51. **Circus Combustus** - Alternating white/red/black pixels running.
+51. **Badger Football** - Alternating white/red/black pixels running.
 52. **Halloween** - Alternating orange/purple pixels running.
 53. **Bicolor Chase** - Two LEDs running on a background color (set three colors).
 54. **Tricolor Chase** - Alternating three color pixels running (set three colors).
